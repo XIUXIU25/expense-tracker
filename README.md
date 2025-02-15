@@ -140,13 +140,3 @@ If you find a bug or want to improve the application, feel free to fork the repo
 git clone git@github.com:XIUXIU25/expense-tracker.git
 cd expense-tracker
 git checkout -b feature-branch
-# Make changes
-git commit -m "Added new feature"
-git push origin feature-branch
-
-Then create a Pull Request! 🚀
-
-📬 Contact
-
-📧 Email: xiuxiu@example.com
-💻 GitHub: XIUXIU25
